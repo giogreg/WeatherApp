@@ -1,3 +1,3 @@
 # WeatherApp
 
-small Weather Application with the openwweather API to learn PWA
+small Weather Application with the open weather API to learn PWA
